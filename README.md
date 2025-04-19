@@ -5,5 +5,6 @@
 
 ## TODO
 
-- uv
+- global package
 - VSCode Integration
+- Dockerfile, DevContainer の生成
