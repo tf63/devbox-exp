@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.profiles.osx": {
+        "WithDevbox": {
+            "path": "fish",
+            "args": ["-c", "devbox shell && fish"]
+        }
+    },
+    "terminal.integrated.defaultProfile.osx": "WithDevbox",
+}
